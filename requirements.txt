@@ -1,0 +1,12 @@
+anndata
+h5py
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+scanpy
+scikit-learn
+scipy
+torch
+umap-learn
